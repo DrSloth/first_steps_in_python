@@ -1,0 +1,4 @@
+Revision from last week thus intermediate:
+Write a program in python which counts from 0 to the number that you get from
+the user by input and print all even of those numbers (including the one the user has input)
+using a for loop. Print 'uneven' instead of uneven numbers

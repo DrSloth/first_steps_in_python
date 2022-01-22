@@ -1,0 +1,9 @@
+This extreme task requires a deeper understanding of objects which might require some research.
+It also requires a new concept called closures.
+
+Researching closures (and being able to explain them) is part of the task.
+
+Rewrite the "advanced" task with simple prototype based inheritance.
+This doesn't have to be in two modules.
+
+What are the differences? Which would you prefer?

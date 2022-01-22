@@ -1,0 +1,4 @@
+Write a simple version of the python range function using a generator without using range().
+Your range implementation should skip (!) all uneven numbers. Call this function 
+'my_special_range'. Print all even numbers up to and including one you take as
+input using your range implementation. Do not replace uneven numbers with anything

@@ -1,0 +1,7 @@
+Create a class called BiMap. This class should store two dictionaries one where the 
+keys map to values and the other where the values map to keys. 
+The class should have a constructor without parameters which creates the fields
+and sets it to empty dictionaries. The class should have an insert method which takes two 
+parameters called k and v and insert them in the dictionaries.
+The class should have a get method which gets a value by its key and a get_key
+method which gets the key by its value.  

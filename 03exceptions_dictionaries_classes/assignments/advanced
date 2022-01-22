@@ -1,0 +1,9 @@
+Write a class called "DictCreator" which is initialised with one list 
+called "keys" as parameter.
+Add a method to the class called "make_dict" which takes another list called 
+'values' as parameter. Raise an exception (which makes sense in your opinion) 
+if the length of both aren't equal. If the length of both are equal create a 
+dictionary containing the value of keys as keys and the values of 'values' as 
+the values of the dictionary. The first index of 'keys' should be the key of the first
+value inside of 'values' and so on.
+

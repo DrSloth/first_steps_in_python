@@ -1,0 +1,12 @@
+This task is extreme because it doesn't tell you how to implement its main problem.
+One main skill of programming is being able to know which data structures to use from 
+an abstract context as well as creating/merging different ones.
+
+Create a class called IndexMap. This class is should store keys and values as well as the order
+in which keys are added. You should implement the following methods:
+- insert: Insert a key and a value into the map
+- get: Get a value by its key 
+- get_index: Get an index (the number of elements that were added before it) by a key
+- get_by_index: Get a value by its index
+
+This class does not need to handle removal of value in any way

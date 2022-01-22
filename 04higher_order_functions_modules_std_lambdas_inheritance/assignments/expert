@@ -1,0 +1,8 @@
+Create a class called ListAsserter which is initialised with a list.
+Add a function called assert_all to the class.
+This function should take another function as parameter.
+The function is used to assert something for every element in the stored list.
+If the function returns False for an element in the list a ListAssertionException should be raised.
+
+The ListAssertionException should be created by you and initialised with the element of the list.
+ListAssertionException should set a custom message including the value for which the assertion failed.

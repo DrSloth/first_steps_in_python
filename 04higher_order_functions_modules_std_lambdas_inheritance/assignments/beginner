@@ -1,0 +1,2 @@
+Write a function called do_times which takes an higher order function "f" and a number "n".
+The function should call the "f" "n" times.

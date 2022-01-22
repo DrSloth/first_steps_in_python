@@ -1,0 +1,3 @@
+Write a simple version of the python range function using a generator without using range().
+Call this function 'my_range'.
+Print all numbers up to and including one you take as input using your range implementation.

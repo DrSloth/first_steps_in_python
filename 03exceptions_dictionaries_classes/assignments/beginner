@@ -1,0 +1,4 @@
+Create a class called Greeter that has a field called name.
+The classes constructor should take the name as parameter.
+Add a method called 'greet' to the class which prints a hello message greeting
+a person with the given name. For instance if the name is Kaworu it could say "Hello, Kaworu!"

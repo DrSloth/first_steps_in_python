@@ -1,0 +1,4 @@
+Write a program which takes a list of numbers as command line arguments. 
+Calculate the cubic root of each number, each in its own thread by brute force (just trying out).
+Print that a calculation finished when it is finished.
+Skip all numbers that don't have an integer cubic root (just write that its cubic root isn't real)
